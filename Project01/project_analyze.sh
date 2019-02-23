@@ -19,7 +19,7 @@ case $var in
 	    echo "HTML: $var1, Javascript: $var2, CSS: $var3, Python: $var4, Haskell: $var5, Bash Script: $var6"
 	    ;;
 	DeletetmpFiles)
-	    tfile=$(git ls-files *.tmp . --exclude-standard --others)
+	    tfile=$(git ls-files *.tmp --exclude-standard --others)
 	    rm tfile
 	    echo "Command DtmpF Executed."
 	    ;;
