@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ./test/test1.txt:#TODOkgsfdihsikGUKGFK
 ./test/test1.txt:#TODO
+=======
+./Project01/README.md:	This part of the script can put each line of every file in my repository with the tag #TODO into a file 
+>>>>>>> project01
