@@ -1,0 +1,25 @@
+
+test/test2.hs:1:1:
+    Parse error: naked expression at top level
+    Perhaps you intended to use TemplateHaskell
+Traceback (most recent call last):
+  File "./test/test3.py", line 1, in <module>
+    iduhgbenwbc32
+NameError: name 'iduhgbenwbc32' is not defined
+python: can't open file ':': [Errno 2] No such file or directory
+
+test/test2.hs:1:1:
+    Parse error: naked expression at top level
+    Perhaps you intended to use TemplateHaskell
+Traceback (most recent call last):
+  File "./test/test3.py", line 1, in <module>
+    aaadaeeeaaaaaaaaaaaaaaaaaaaaaaiduhgbenwbc32
+NameError: name 'aaadaeeeaaaaaaaaaaaaaaaaaaaaaaiduhgbenwbc32' is not defined
+
+test/test2.hs:1:1:
+    Parse error: naked expression at top level
+    Perhaps you intended to use TemplateHaskell
+Traceback (most recent call last):
+  File "./test/test3.py", line 1, in <module>
+    aaadaeeeaaaaaaaaaaaaaaaaaaaaaaiduhgbenwbc32
+NameError: name 'aaadaeeeaaaaaaaaaaaaaaaaaaaaaaiduhgbenwbc32' is not defined
